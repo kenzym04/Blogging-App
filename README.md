@@ -7,19 +7,19 @@ This blogging App enables USERS to post POSTS and view/read posts of other users
 I built the App adhering to Cross Site Forgery (CFS) security and using the modern technologies.
 
 TOOLS AND SKILLS USED
-•	HTML/HTML5
-•	CSS/CSS3
+•	HTML5
+•	CSS3
 •	SemanticUI
 •	Responsive Design
 •	Flexbox
 •	CSS Grid
 •	Bootstrap 4
 •	DOM Manipulation
-•	Javascript (including ES6/ES7/ES8/ES9/ES10)
+•	Javascript
 •	Asynchronous JavaScript
-•	HTTP/JSON/AJAX
-•	React + Redux
-•	Git + Github
+•	HTTP/JSON
+•	React
+•	Github
 •	Command Line
 •	Node.js
 •	Express.js
